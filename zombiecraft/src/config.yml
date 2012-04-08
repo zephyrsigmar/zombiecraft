@@ -1,0 +1,7 @@
+#Zombiecraft Config:
+
+#The Time Value (Number) to Change to, when Apocalypse starts:
+ChangeTimeTo: 13000
+
+#true= changes Weather to Storm. false= changes Weather to Sun:
+ChangeWeather: true

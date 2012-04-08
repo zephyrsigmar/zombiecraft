@@ -1,0 +1,13 @@
+name: zombiecraft
+main: com.mcheaven.zombiecraft.Zombiecraft
+version: 0.1.1
+commands:
+   zombiecraft:
+      description: Starts Zombie Apocalypse.
+      usage: /<command>
+      permission: zombiecraft.main
+      permission-message: You don't have Permissions.
+permissions:
+    zombiecraft.main:
+        description: Main Permission Node..
+        default: op
